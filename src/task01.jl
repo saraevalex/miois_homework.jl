@@ -102,4 +102,4 @@ function chesscolor(cell1, cell2)
 if ((cell1[2]+num1)%2==(cell2[2]+num2)%2) return true
 else return false
 end
-end
+end   
