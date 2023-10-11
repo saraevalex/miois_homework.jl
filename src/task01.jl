@@ -40,7 +40,7 @@ function secondnorm(vec_::AbstractVector{<:Number})
     end
     norm = sqrt(norm)
     return norm
-end
+end 
 
 function infnorm(vec_::AbstractVector{<:Number})
     norm=0
